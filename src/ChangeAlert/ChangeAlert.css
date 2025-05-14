@@ -1,0 +1,11 @@
+.change-alert{
+    padding: 10px 20px;
+    font-size: larger;
+}
+.change-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
